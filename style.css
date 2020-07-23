@@ -58,6 +58,8 @@ p {
 }
 
 aside {
+    background-color: #8686862f;
+    height: 100%;
     width: 18%;
     margin: 1%;
     text-align: center;
